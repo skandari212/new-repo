@@ -1,7 +1,7 @@
 trigger: none
 
 pool:
-  name: cicd
+  name: new test
 
 steps:
 
